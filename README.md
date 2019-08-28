@@ -10,5 +10,3 @@ How it Works: Transitlines cost money to build but return value (income) if city
 Transitlines also produce Co2. Different types of transit produce more Co2 than others.
 Co2 is accumulative and will increase likelihood of a natural disaster occurring.
 Natural disasters will destroy some transitlines.
-
-Authors: Emily Segroves & Arturo Guzman
